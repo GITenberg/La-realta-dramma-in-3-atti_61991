@@ -1,0 +1,27 @@
+_repo: La-realta-dramma-in-3-atti_61991
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rovetta, Gerolamo
+    birthdate: 1854
+    deathdate: 1910
+    gutenberg_agent_id: '3997'
+    url: http://www.gutenberg.org/2009/agents/3997
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Gerolamo_Rovetta
+    - https://en.wikipedia.org/wiki/Gerolamo_Rovetta
+description: ''
+gutenberg_issued: '2020-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61991'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian drama -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'La realtà: dramma in 3 atti'
+url: http://www.gutenberg.org/ebooks/61991
